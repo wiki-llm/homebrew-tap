@@ -4,7 +4,7 @@ class WikiLlm < Formula
   
   url "https://raw.githubusercontent.com/github/choosealicense.com/gh-pages/_licenses/mit.txt"
   version "0.0.1"
-  sha256 "0313f890289a05952f4eb271e1b88e17ed48ef53457591605330e7ed8c264a93"
+  sha256 "e6919db13cacb3300f918d1048d996d0f4506e1f110b7caa21f31ea7ca3ef5b8"
 
   def install
     # This is a placeholder install step
