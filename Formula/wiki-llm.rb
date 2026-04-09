@@ -2,9 +2,9 @@ class WikiLlm < Formula
   desc "Placeholder for the Wiki-LLM project"
   homepage "https://wiki-llm.org"
   
-  url "https://github.com/wiki-llm/homebrew-tap/archive/d904cb10275f98dc7157569949db6c19b0051b88.tar.gz"
+  url "https://raw.githubusercontent.com/github/choosealicense.com/gh-pages/_licenses/mit.txt"
   version "0.0.1"
-  sha256 "bc75cda7c77cb8d45f803ecf249d4c54bad073ae5709c6a00b02b32d5dca28b8"
+  sha256 "0313f890289a05952f4eb271e1b88e17ed48ef53457591605330e7ed8c264a93"
 
   def install
     # This is a placeholder install step
