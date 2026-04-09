@@ -4,7 +4,7 @@ class WikiLlm < Formula
   
   url "https://github.com/wiki-llm/homebrew-tap/archive/refs/heads/main.tar.gz"
   version "0.0.1"
-  sha256 "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855" # Empty file hash
+  sha256 "bc75cda7c77cb8d45f803ecf249d4c54bad073ae5709c6a00b02b32d5dca28b8"
 
   def install
     # This is a placeholder install step
